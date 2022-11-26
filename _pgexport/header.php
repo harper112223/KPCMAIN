@@ -1,0 +1,48 @@
+ 
+<!doctype html > 
+<html class="no-js" dir="ltr" <?php language_attributes(); ?>> 
+    <!-- Mirrored from www.kpc.com.kw/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 03 Nov 2022 02:29:59 GMT -->     
+    <!-- Added by HTTrack -->
+    <meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+    <!-- /Added by HTTrack -->     
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=10"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+        <meta name="GENERATOR" content="Microsoft SharePoint"/>
+        <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+        <meta http-equiv="Expires" content="0"/>                                                                                                                                                                                                       
+        <script type="text/javascript">RegisterSod("require.html", "#\u002f_layouts\u002f15\u002frequire.js?rev=4UhLIF\u00252FezOvmGnh\u00252Fs0LLpA\u00253D\u00253DTAG0");</script>         
+        <script type="text/javascript">RegisterSod("strings.html", "#\u002f_layouts\u002f15\u002f1033\u002fstrings.js?rev=k\u00252FSaOdWtcHDDvsb\u00252FUFykOA\u00253D\u00253DTAG0");</script>         
+        <script type="text/javascript">RegisterSod("sp.res.resx", "#\u002f_layouts\u002f15\u002f1033\u002fsp.res.js?rev=wAoMiKx7gNtLcYzRgm0ujg\u00253D\u00253DTAG0");</script>         
+        <script type="text/javascript">RegisterSod("sp.runtime.html", "#\u002f_layouts\u002f15\u002fsp.runtime.js?rev=hrB9zVPB6IvLGKXUPzhK6w\u00253D\u00253DTAG0");RegisterSodDep("sp.runtime.html", "sp.res.resx");</script>         
+        <script type="text/javascript">RegisterSod("sp.html", "#\u002f_layouts\u002f15\u002fsp.js?rev=6azZDVnMzNRM4gTJrOoiVQ\u00253D\u00253DTAG0");RegisterSodDep("sp.html", "sp.runtime.html");RegisterSodDep("sp.html", "sp.ui.dialog.html");RegisterSodDep("sp.html", "sp.res.resx");</script>         
+        <script type="text/javascript">RegisterSod("sp.init.html", "#\u002f_layouts\u002f15\u002fsp.init.js?rev=bvelyCN7PPWfhUQJ4ULhZA\u00253D\u00253DTAG0");</script>         
+        <script type="text/javascript">RegisterSod("sp.ui.dialog.html", "#\u002f_layouts\u002f15\u002fsp.ui.dialog.js?rev=So7TONvj5ayOJ\u00252BI1LBN6fw\u00253D\u00253DTAG0");RegisterSodDep("sp.ui.dialog.html", "sp.init.html");RegisterSodDep("sp.ui.dialog.html", "sp.res.resx");</script>         
+        <script type="text/javascript">RegisterSod("core.html", "#\u002f_layouts\u002f15\u002fcore.js?rev=LERmP\u00252F2goS1eIkc8OfsCUA\u00253D\u00253DTAG0");RegisterSodDep("core.html", "strings.html");</script>         
+        <script type="text/javascript">RegisterSod("menu.html", "#\u002f_layouts\u002f15\u002fmenu.js?rev=GWYLQAuUQ1R4BVlvOsrE\u00252Bg\u00253D\u00253DTAG0");</script>         
+        <script type="text/javascript">RegisterSod("mQuery.html", "#\u002f_layouts\u002f15\u002fmquery.js?rev=3lwsYq93cQYerRjkx6BVLg\u00253D\u00253DTAG0");</script>         
+        <script type="text/javascript">RegisterSod("callout.html", "#\u002f_layouts\u002f15\u002fcallout.js?rev=V9RZNmqaecYbkijgnJxlKg\u00253D\u00253DTAG0");RegisterSodDep("callout.html", "strings.html");RegisterSodDep("callout.html", "mQuery.html");RegisterSodDep("callout.html", "core.html");</script>         
+        <script type="text/javascript">RegisterSod("sp.core.html", "#\u002f_layouts\u002f15\u002fsp.core.js?rev=YUMpMbu0XuDux9\u00252FHjyTsYA\u00253D\u00253DTAG0");RegisterSodDep("sp.core.html", "strings.html");RegisterSodDep("sp.core.html", "sp.init.html");RegisterSodDep("sp.core.html", "core.html");</script>         
+        <script type="text/javascript">RegisterSod("sharedhovercard.strings.html", "#\u002f_layouts\u002f15\u002f1033\u002fsharedhovercard.strings.js?rev=sLsS\u00252FNPqFzOSO42e3s6lgw\u00253D\u00253DTAG0");</script>         
+        <script type="text/javascript">RegisterSod("sharedhovercard.html", "#\u002f_layouts\u002f15\u002fsharedhovercard.js?rev=uB89up9szoXj8bAMKPkPSg\u00253D\u00253DTAG0");RegisterSodDep("sharedhovercard.html", "sharedhovercard.strings.html");</script>         
+        <script type="text/javascript">RegisterSod("clienttemplates.html", "#\u002f_layouts\u002f15\u002fclienttemplates.js?rev=4DbZ\u00252F8TMIe3Y9X9qKH\u00252BAjA\u00253D\u00253DTAG0");</script>         
+        <script type="text/javascript">RegisterSod("sharing.html", "#\u002f_layouts\u002f15\u002fsharing.js?rev=lB2\u00252B463G\u00252B5FR4jcmqbqnDw\u00253D\u00253DTAG0");RegisterSodDep("sharing.html", "strings.html");RegisterSodDep("sharing.html", "mQuery.html");RegisterSodDep("sharing.html", "clienttemplates.html");RegisterSodDep("sharing.html", "core.html");</script>         
+        <script type="text/javascript">RegisterSod("suitelinks.html", "#\u002f_layouts\u002f15\u002fsuitelinks.js?rev=XBCSCU0z\u00252BG58LO1cScMfAQ\u00253D\u00253DTAG0");RegisterSodDep("suitelinks.html", "strings.html");RegisterSodDep("suitelinks.html", "core.html");</script>         
+        <script type="text/javascript">RegisterSod("userprofile", "#\u002f_layouts\u002f15\u002fsp.userprofiles.js?rev=cx6U8sP\u00252ByP0OFLjk6ekyIg\u00253D\u00253DTAG0");RegisterSodDep("userprofile", "sp.runtime.html");</script>         
+        <script type="text/javascript">RegisterSod("followingcommon.html", "#\u002f_layouts\u002f15\u002ffollowingcommon.js?rev=a4s0q0CgXaZfS0\u00252B\u00252F\u00252BUlOZA\u00253D\u00253DTAG0");RegisterSodDep("followingcommon.html", "strings.html");RegisterSodDep("followingcommon.html", "sp.html");RegisterSodDep("followingcommon.html", "userprofile");RegisterSodDep("followingcommon.html", "core.html");RegisterSodDep("followingcommon.html", "mQuery.html");</script>         
+        <script type="text/javascript">RegisterSod("profilebrowserscriptres.resx", "#\u002f_layouts\u002f15\u002f1033\u002fprofilebrowserscriptres.js?rev=qwf69WaVc1mYlJLXqmZmVA\u00253D\u00253DTAG0");</script>         
+        <script type="text/javascript">RegisterSod("sp.ui.mysitecommon.html", "#\u002f_layouts\u002f15\u002fsp.ui.mysitecommon.js?rev=lIQfSxRAJ5McjhVFQqCgCw\u00253D\u00253DTAG0");RegisterSodDep("sp.ui.mysitecommon.html", "sp.init.html");RegisterSodDep("sp.ui.mysitecommon.html", "sp.runtime.html");RegisterSodDep("sp.ui.mysitecommon.html", "userprofile");RegisterSodDep("sp.ui.mysitecommon.html", "profilebrowserscriptres.resx");</script>         
+        <script type="text/javascript">RegisterSod("browserScript", "#\u002f_layouts\u002f15\u002fnon_ie.js?rev=1\u00252BTSf30wTP1\u00252Bw7\u00252FDVJpT1g\u00253D\u00253DTAG0");RegisterSodDep("browserScript", "strings.html");</script>         
+        <script type="text/javascript">RegisterSod("inplview", "#\u002f_layouts\u002f15\u002finplview.js?rev=ahgogALioa187yndAK\u00252BpEw\u00253D\u00253DTAG0");RegisterSodDep("inplview", "strings.html");RegisterSodDep("inplview", "core.html");RegisterSodDep("inplview", "clienttemplates.html");RegisterSodDep("inplview", "sp.html");</script>         
+        <link type="text/xml" rel="alternate" href="<?php echo esc_url( get_template_directory_uri() ); ?>/_vti_bin/spsdisco.aspx"/> 
+        <link rel="canonical" href="<?php echo esc_url( get_template_directory_uri() ); ?>/index.html"/> 
+        <meta charset="<?php bloginfo( 'charset' ); ?>"/>
+        <meta name="description"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui"/>
+        <link rel="icon" href="<?php echo esc_url( get_template_directory_uri() ); ?>/_catalogs/masterpage/2016/favicon/favicon.ico"/>
+        <script>NS_CSM_td=305206774;NS_CSM_pd=275116665;NS_CSM_u="/clm10";NS_CSM_col="af_collector_logstream_10.162.1.231";</script>
+        <script type="text/javascript">function sendTimingInfoInit(){setTimeout(sendTimingInfo,0)}function sendTimingInfo(){var wp=window.performance;if(wp){var c1,c2,t;c1=wp.timing;if(c1){var cm={};cm.ns=c1.navigationStart;if((t=c1.unloadEventStart)>0)cm.us=t;if((t=c1.unloadEventEnd)>0)cm.ue=t;if((t=c1.redirectStart)>0)cm.rs=t;if((t=c1.redirectEnd)>0)cm.re=t;cm.fs=c1.fetchStart;cm.dls=c1.domainLookupStart;cm.dle=c1.domainLookupEnd;cm.cs=c1.connectStart;cm.ce=c1.connectEnd;if((t=c1.secureConnectionStart)>0)cm.scs=t;cm.rqs=c1.requestStart;cm.rss=c1.responseStart;cm.rse=c1.responseEnd;cm.dl=c1.domLoading;cm.di=c1.domInteractive;cm.dcls=c1.domContentLoadedEventStart;cm.dcle=c1.domContentLoadedEventEnd;cm.dc=c1.domComplete;if((t=c1.loadEventStart)>0)cm.ls=t;if((t=c1.loadEventEnd)>0)cm.le=t;cm.tid=NS_CSM_td;cm.pid=NS_CSM_pd;cm.ac=NS_CSM_col;var xhttp=new XMLHttpRequest();if(xhttp){var JSON=JSON||{};JSON.stringify=JSON.stringify||function(ob){var t=typeof(ob);if(t!="object"||ob===null){if(t=="string")ob='"'+ob+'"';return String(ob);}else{var n,v,json=[],arr=(ob&&ob.constructor==Array);for(n in ob){v=ob[n];t=typeof(v);if(t=="string")v='"'+v+'"';else if(t=="object"&&v!==null)v=JSON.stringify(v);json.push((arr?"":'"'+n+'":')+String(v));}return(arr?"[":"{")+String(json)+(arr?"]":"}");}};xhttp.open("POST.html",NS_CSM_u,true);xhttp.send(JSON.stringify(cm));}}}}if(window.addEventListener)window.addEventListener("load",sendTimingInfoInit,false);else if(window.attachEvent)window.attachEvent("onload",sendTimingInfoInit);else window.onload=sendTimingInfoInit;</script>
+        <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
+        <?php wp_head(); ?>
+    </head>     
+    <body class="PageBody TranparentNav <?php echo implode(' ', get_body_class()); ?>" onhashchange="if (typeof(_spBodyOnHashChange) != 'undefined') _spBodyOnHashChange();">
