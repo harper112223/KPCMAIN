@@ -334,7 +334,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager', 'aspnetForm',
                                             
                                             
                                             </h5>
-                                            <p>Tel: +1 (909) 276-5152
+                                            <p>Tel: 
                                         
                                         
                                         

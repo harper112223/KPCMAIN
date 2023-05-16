@@ -340,7 +340,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager', 'aspnetForm',
                                      </div>
                                 <div class="last column omega">
                                         <h5>مؤسسة البترول الكويتية</h5><br />
-                                        <p>ت: +1 (909) 276-5152 <br />ص. ب 26565 ، الرمز البريدي 13126، الصفاة الكويت. 
+                                        <p>ت:  <br />ص. ب 26565 ، الرمز البريدي 13126، الصفاة الكويت. 
 </p>
                                 </div>
                             </div>
@@ -383,7 +383,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager', 'aspnetForm',
                                             
                                             
                                             </h5>
-                                            <p>Tel: +1 (909) 276-5152
+                                            <p>Tel: 
                                         
                                         
                                         

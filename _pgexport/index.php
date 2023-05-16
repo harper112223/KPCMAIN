@@ -586,7 +586,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager', 'aspnetForm',
                                                                                             </div>
                                                                                             <div class='mb-3'>
                                                                                                 <h4 class='card-title'><i class='fa fa-twitter' aria-hidden='true'></i><?php _e( 'KNPCofficial', 'wp-content' ); ?></h4>
-                                                                                                <p><a target='_blank' href='https://twitter.com/KNPCofficial/status/1587439194577768453'><?php _e( '#البترول_الوطنية شاركت في المنتدى الحضري الوطني الأول https://t.co/j9NfrP9LoV', 'wp-content' ); ?></a></p>
+                                                                                                <p><a target='_blank' href=''><?php _e( '#البترول_الوطنية شاركت في المنتدى الحضري الوطني الأول https://t.co/j9NfrP9LoV', 'wp-content' ); ?></a></p>
                                                                                                 <h6 class='card-subtitle text-muted'><?php _e( '01-11-2022 01:39:31 PM', 'wp-content' ); ?></h6>
                                                                                             </div>
                                                                                             <div class='mb-3'>
@@ -825,18 +825,18 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager', 'aspnetForm',
                                         <div class="row border-between"> 
                                             <div class="col-md-6"> 
                                                 <h5><?php _e( 'KPC Contact Information', 'wp-content' ); ?>            </h5> 
-                                                <p><?php _e( 'Tel: +1 (909) 276-5152', 'wp-content' ); ?>            <br/>            <?php _e( 'P.O. Box: 26565,', 'wp-content' ); ?> <br/>            <?php _e( 'Postal Code: No. 13126, Safat, Kuwait', 'wp-content' ); ?> </p> 
+                                                <p><?php _e( 'Tel: ', 'wp-content' ); ?>            <br/>            <?php _e( 'P.O. Box: 26565,', 'wp-content' ); ?> <br/>            <?php _e( 'Postal Code: No. 13126, Safat, Kuwait', 'wp-content' ); ?> </p> 
                                             </div>                                             
                                             <div class="col-md-6"> 
                                                 <h5><?php _e( 'Stay in Touch', 'wp-content' ); ?>            </h5> 
                                                 <div class="col-md-12 text-left SocialLinksIcons"> 
-                                                    <a href="https://www.facebook.com/profile.php?id=100087106916616"> 
+                                                    <a href=""> 
                                                         <img class="d-inline-block m-1" src="<?php echo esc_url( get_template_directory_uri() ); ?>/Style%20Library/en-us/KPCTheme/img/1.svg" alt="" width="28" height="28"/> 
                                                     </a>                                                     
-                                                    <a href="https://twitter.com/officialkpckw"> 
+                                                    <a href="https://twitter.com/kuwaitoilc38367"> 
                                                         <img class="d-inline-block m-1" src="<?php echo esc_url( get_template_directory_uri() ); ?>/Style%20Library/en-us/KPCTheme/img/5.svg" alt="" width="28" height="28"/> 
                                                     </a>                                                     
-                                                    <a href="https://www.instagram.com/kuwait_oil_/"> 
+                                                    <a href=""> 
                                                         <img class="d-inline-block m-1" src="<?php echo esc_url( get_template_directory_uri() ); ?>/Style%20Library/en-us/KPCTheme/img/9.svg" alt="" width="28" height="28"/> 
                                                     </a>                                                     
                                                 </div>                                                 

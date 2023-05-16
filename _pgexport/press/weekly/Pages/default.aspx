@@ -340,7 +340,7 @@ Weekly e-Newsletter
                                             
                                             
                                             </h5>
-                                            <p>Tel: +1 (909) 276-5152
+                                            <p>Tel: 
                                         
                                         
                                         
